@@ -6,7 +6,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/HACKERWORLDBD/Neuton-BOT.git
+git clone https://github.com/Blackscorpionmrx/Neuton-BOT.git
 
 cd Neuton-BOT
 
